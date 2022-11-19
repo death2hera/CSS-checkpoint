@@ -1,0 +1,16 @@
+body {
+    justify-content: center;
+    display: grid;
+    background-color: dimgrey;
+    font-family: 'Roboto';
+    
+}
+.navbar {
+    justify-content: right;
+}
+footer {
+    justify-content: baseline;
+    justify-content: center;
+    border: 1px;
+
+}
